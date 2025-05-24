@@ -23,7 +23,7 @@ This repo contains shortlisting challenges and technical assessments for various
 
 | Position                          | Folder                 | Type       |
 |----------------------------------|------------------------|------------|
-| Python Developer Intern          | [Python_Intern.md](./Python_Intern.md) | Internship |
+| Python Developer Intern          | [Python_Intern.md](./python-intern.me) | Internship |
 
 
 More tasks will be added as roles open up.
